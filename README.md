@@ -8,6 +8,7 @@ To build the sample:
 - Install <i>npm install -g webpack</i> (or use the bin path in node_modules below where we call webpack)
 - Run <i>npm install</i>
 - Run <i>webpack webpack.config.js</i>
+- Open app/index.html in a web browser
 
 Connecting the sample to you Logentries account
 ------------------------------------------------
