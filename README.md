@@ -15,7 +15,10 @@ Connecting the sample to you Logentries account
 - Replace the "1234_fake_token" with your token and the links will post correctly to your Logentries.com endpoint.
 
 
-    const Logger = require ('./logger.jsx')('1234_fake_token', {trace: true});
+```
+const Logger = require ('./logger.jsx')('1234_fake_token', {trace: true});
+```
 becomes
-
-    const Logger = require ('./logger.jsx')('your token', {trace: true});
+```
+const Logger = require ('./logger.jsx')('your token', {trace: true});
+```
