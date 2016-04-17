@@ -14,7 +14,7 @@ class App extends React.Component {
                     width: '400px'
                 }}>
                     Edit the app/js/app.jsx file. Replace the "1234_fake_token" with your token and the links will post correctly to your Logentries.com endpoint.
-                    After pressing the button, go check your logentries dashboard and you will see the error recorded at the approriate level.
+                    After pressing a link, go check your logentries dashboard and you will see the error recorded at the approriate level.
                 </div>
 
                 <div style={{
